@@ -9,7 +9,7 @@
 
 
 ## ÇĞ»»µ½´úÂëÄ¿Â¼²é¿´£ºcd fruitmix-desktop
-![ÇĞ»»Ä¿Â¼](¨./3.png)
+![ÇĞ»»Ä¿Â¼](./3.png)
 
 
 ## ÇĞ»»·ÖÖ§£ºgit checkout transimission
@@ -51,19 +51,19 @@
 
 ## windows´ò°ü£º
 
-#£¨1£©.°²×°windowsÒÀÀµ°ü£º
-# sudo apt install wine
+### £¨1£©.°²×°windowsÒÀÀµ°ü£º
+### sudo apt install wine
 
-# sudo dpkg --configure ¨Ca
+### sudo dpkg --configure ¨Ca
 
-# sudo apt install wine
+### sudo apt install wine
 ![windowsÒÀÀµ°ü](./12.png)
 
-#£¨2£©.windows64Î»½øĞĞ´ò°ü£º node_modules/.bin/electron-packager . --no-prune --arch=x64 --platform=win32
+## £¨2£©.windows64Î»½øĞĞ´ò°ü£º node_modules/.bin/electron-packager . --no-prune --arch=x64 --platform=win32
 
-# Windows32Î»½øĞĞ´ò°ü£º  node_modules/.bin/electron-packager . --no-prune --arch=ia32 --platform=win32
+## Windows32Î»½øĞĞ´ò°ü£º  node_modules/.bin/electron-packager . --no-prune --arch=ia32 --platform=win32
 
-# £¨È«¾ÖÊ±´ò°üÃüÁî£º          electron-packager . --no-prune --arch=x64 --platform=win32£©
+## £¨È«¾ÖÊ±´ò°üÃüÁî£º          electron-packager . --no-prune --arch=x64 --platform=win32£©
 ![windows](./13.png)
 
 
